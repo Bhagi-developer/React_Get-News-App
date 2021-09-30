@@ -30,7 +30,7 @@ export class News extends Component {
     };
     document.title = `${this.capitalizeFirstLetter(
       this.props.category
-    )} - NewsMonkey`;
+    )}Category- NewsFeed`;
   }
 
   async updateNews() {
