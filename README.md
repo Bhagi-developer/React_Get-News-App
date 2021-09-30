@@ -30,4 +30,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-copyright for this version | Bhagirath Makwana copyright claim © 2021
+## copyright for this version | Bhagirath Makwana copyright claim © 2021
